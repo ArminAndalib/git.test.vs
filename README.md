@@ -7,8 +7,6 @@
 **Learn • Build • Break • Defend**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArminAndalib)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 
 </div>
 
@@ -151,16 +149,6 @@ Advanced Cybersecurity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArminAndalib&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
-
----
-
-## 🔗 Social
-
-- GitHub — https://github.com/ArminAndalib
-- LinkedIn — add your profile URL
-- Telegram — add your profile URL
-- TryHackMe — add your profile URL
-- Hack The Box — add your profile URL
 
 ---
 
